@@ -1,0 +1,20 @@
+[[plugins]]
+repo = 'vim-jp/vimdoc-ja'
+[[plugins]]
+repo = 'lambdalisue/fern.vim'
+[[plugins]]
+repo = 'habamax/vim-gruvbit'
+[[plugins]]
+repo = 'tpope/vim-surround'
+[[plugins]]
+repo = 'junegunn/fzf'
+[[plugins]]
+repo = 'junegunn/fzf.vim'
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+[[plugins]]
+repo = 'vim-airline/vim-airline-themes'
+[[plugins]]
+repo = 'machakann/vim-highlightedyank'
+[[plugins]]
+repo = 'simeji/winresizer'
